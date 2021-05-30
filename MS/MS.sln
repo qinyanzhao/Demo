@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Jwt", "Jwt", "{DCF06A2A-20EB-492F-BD87-B5CE34D29548}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sky.Ms.WebApi", "src\Sky.Ms.WebApi\Sky.Ms.WebApi.csproj", "{198A42A4-8995-4A37-B360-B77645DE8180}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{198A42A4-8995-4A37-B360-B77645DE8180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{198A42A4-8995-4A37-B360-B77645DE8180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{198A42A4-8995-4A37-B360-B77645DE8180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{198A42A4-8995-4A37-B360-B77645DE8180}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{198A42A4-8995-4A37-B360-B77645DE8180} = {DCF06A2A-20EB-492F-BD87-B5CE34D29548}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6590FFE-58AE-4E0A-81C2-49D1BFB42A83}
+	EndGlobalSection
+EndGlobal
